@@ -157,3 +157,19 @@ fixed | 뷰포트 | X
 ***
 
 ___
+
+
+# git에 올리기
+
+저장소 생성후 url 복사  
+이후 터미널 실행하여  
+git init  
+git status  
+git add .  
+git status  
+git commit -m ""  
+git remote origin https://github.com/rlaqhtjs789/markdown-practice.git  
+git push origin master  
+
+
+순으로 진행
